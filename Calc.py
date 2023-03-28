@@ -1,3 +1,5 @@
+import special_variable
+
 def add(a, b):
     return a+b
 
@@ -15,3 +17,4 @@ def div(a, b):
 
 
 
+print("Its Time to Calculate" )
